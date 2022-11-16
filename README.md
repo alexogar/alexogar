@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey Ogarkov</h1>
-<h3 align="center">A passionate full-stack engineer from Russia, currently working in Berlin.</h3>
+<h3 align="center">A passionate full-stack engineer, located in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexogar&label=Profile%20views&color=0e75b6&style=flat" alt="alexogar" /> </p>
 
